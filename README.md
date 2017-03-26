@@ -9,4 +9,26 @@ This idea to build a ligther, open source and cross plattform application was in
 
 That's why **NPsy** intents to be a complete neuropsychological testing platform, aimed at researchers, teachers, university students and ordinary users all around the world with different language translations.
 
+##Get Started
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+
 **If you would like to get more involved, send an email [here](mailto:hugohondaf@gmail.com?Subject=StroopTest%20Git)**
